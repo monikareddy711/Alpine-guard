@@ -1,0 +1,57 @@
+<div class="shell">
+  <header class="topbar">
+    <div class="brand">
+      <span class="mark">AlpineGuard</span>
+      <span class="subtitle">snowpack telemetry and ski tour hazard</span>
+    </div>
+
+    <div class="controls">
+      <p-dropdown
+        [options]="(routes$ | async) ?? []"
+        optionLabel="name"
+        optionValue="slug"
+        [ngModel]="selectedRoute$ | async"
+        (ngModelChange)="selectRoute($event)"
+        placeholder="select a ski tour"
+        styleClass="route-select"
+      ></p-dropdown>
+
+      <p-selectButton
+        [options]="windowOptions"
+        [ngModel]="windowHours$ | async"
+        (ngModelChange)="setWindow($event)"
+        optionLabel="label"
+        optionValue="value"
+      ></p-selectButton>
+
+      <span class="bulletin">{{ bulletinHeadline(bulletins$ | async) }}</span>
+    </div>
+  </header>
+
+  <main class="grid">
+    <ag-terrain-globe
+      class="globe"
+      [stations]="(stations$ | async) ?? []"
+      [route]="routeDetail$ | async"
+      [assessment]="assessment$ | async"
+    ></ag-terrain-globe>
+
+    <ag-station-table class="table" [stations]="(stations$ | async) ?? []"></ag-station-table>
+
+    <ag-telemetry-chart class="telemetry" [telemetry]="telemetry$ | async"></ag-telemetry-chart>
+
+    <ag-route-profile
+      class="profile"
+      [route]="routeDetail$ | async"
+      [assessment]="assessment$ | async"
+    ></ag-route-profile>
+
+    <ag-hazard-panel
+      class="hazard"
+      [route]="routeDetail$ | async"
+      [assessment]="assessment$ | async"
+      [windowHours]="(windowHours$ | async) ?? 72"
+      (segmentSelected)="onSegmentSelected($event)"
+    ></ag-hazard-panel>
+  </main>
+</div>

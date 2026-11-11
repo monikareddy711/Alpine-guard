@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="AlpineGuard" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Stubai Glacier to Schaufelspitze</name>
+    <author><name>AlpineGuard</name></author>
+  </metadata>
+  <trk>
+    <name>Stubai Glacier to Schaufelspitze</name>
+    <trkseg>
+      <trkpt lat="46.970000" lon="11.085000"><ele>2496.4</ele></trkpt>
+      <trkpt lat="46.970600" lon="11.085600"><ele>2517.7</ele></trkpt>
+      <trkpt lat="46.971200" lon="11.085600"><ele>2532.4</ele></trkpt>
+      <trkpt lat="46.971800" lon="11.086200"><ele>2542.6</ele></trkpt>
+      <trkpt lat="46.972400" lon="11.086800"><ele>2559.6</ele></trkpt>
+      <trkpt lat="46.973000" lon="11.086800"><ele>2565.5</ele></trkpt>
+      <trkpt lat="46.973600" lon="11.086800"><ele>2572.0</ele></trkpt>
+      <trkpt lat="46.974200" lon="11.087400"><ele>2585.4</ele></trkpt>
+      <trkpt lat="46.974800" lon="11.088000"><ele>2599.4</ele></trkpt>
+      <trkpt lat="46.975400" lon="11.088600"><ele>2619.3</ele></trkpt>
+      <trkpt lat="46.976000" lon="11.089200"><ele>2641.3</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.089800"><ele>2670.8</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.090400"><ele>2682.5</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.091000"><ele>2703.4</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.091600"><ele>2725.6</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.092200"><ele>2762.7</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.092800"><ele>2777.9</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.093400"><ele>2783.3</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.094000"><ele>2791.0</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.094600"><ele>2793.8</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.095200"><ele>2800.7</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.095800"><ele>2806.1</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.096400"><ele>2821.5</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.097000"><ele>2834.1</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.097600"><ele>2850.1</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.098200"><ele>2878.3</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.098800"><ele>2896.1</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.099400"><ele>2908.0</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.100000"><ele>2922.7</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.100600"><ele>2946.1</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.101200"><ele>2971.3</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.101800"><ele>2984.1</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.102400"><ele>3004.8</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.103000"><ele>3014.9</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.103600"><ele>3028.0</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.104200"><ele>3032.7</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.104800"><ele>3044.2</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.105400"><ele>3051.1</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.106000"><ele>3058.7</ele></trkpt>
+      <trkpt lat="46.976600" lon="11.106600"><ele>3075.2</ele></trkpt>
+      <trkpt lat="46.977200" lon="11.107200"><ele>3097.1</ele></trkpt>
+      <trkpt lat="46.977200" lon="11.107800"><ele>3109.5</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.108400"><ele>3108.4</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.109000"><ele>3105.9</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.109600"><ele>3105.7</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.110200"><ele>3109.8</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.110800"><ele>3116.6</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.111400"><ele>3121.4</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.112000"><ele>3154.4</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.112600"><ele>3173.9</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.113200"><ele>3199.3</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.113800"><ele>3209.8</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.114400"><ele>3222.2</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.115000"><ele>3248.4</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.115600"><ele>3278.7</ele></trkpt>
+      <trkpt lat="46.977800" lon="11.116200"><ele>3291.2</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

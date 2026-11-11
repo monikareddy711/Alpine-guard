@@ -1,0 +1,298 @@
+{
+  "bulletins": [
+    {
+      "region": "AT-07 Tyrol",
+      "validDate": "2026-03-16",
+      "issuedAt": "2026-03-16T07:00:00Z",
+      "mainProblem": "WIND_SLAB",
+      "summary": "Fresh wind slabs on north and east facing slopes above the treeline.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 2
+        },
+        {
+          "band": "MID",
+          "rating": 3
+        },
+        {
+          "band": "HIGH",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "region": "CH-GR Graubuenden",
+      "validDate": "2026-03-16",
+      "issuedAt": "2026-03-16T07:00:00Z",
+      "mainProblem": "PERSISTENT_WEAK_LAYER",
+      "summary": "Buried surface hoar near 2200 m, triggered by large loads.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 2
+        },
+        {
+          "band": "MID",
+          "rating": 2
+        },
+        {
+          "band": "HIGH",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "region": "AT-07 Tyrol",
+      "validDate": "2026-03-15",
+      "issuedAt": "2026-03-15T07:00:00Z",
+      "mainProblem": "WIND_SLAB",
+      "summary": "Fresh wind slabs on north and east facing slopes above the treeline.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 2
+        },
+        {
+          "band": "MID",
+          "rating": 3
+        },
+        {
+          "band": "HIGH",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "region": "CH-GR Graubuenden",
+      "validDate": "2026-03-15",
+      "issuedAt": "2026-03-15T07:00:00Z",
+      "mainProblem": "PERSISTENT_WEAK_LAYER",
+      "summary": "Buried surface hoar near 2200 m, triggered by large loads.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 2
+        },
+        {
+          "band": "MID",
+          "rating": 2
+        },
+        {
+          "band": "HIGH",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "region": "AT-07 Tyrol",
+      "validDate": "2026-03-14",
+      "issuedAt": "2026-03-14T07:00:00Z",
+      "mainProblem": "WIND_SLAB",
+      "summary": "Fresh wind slabs on north and east facing slopes above the treeline.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 2
+        },
+        {
+          "band": "MID",
+          "rating": 3
+        },
+        {
+          "band": "HIGH",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "region": "CH-GR Graubuenden",
+      "validDate": "2026-03-14",
+      "issuedAt": "2026-03-14T07:00:00Z",
+      "mainProblem": "PERSISTENT_WEAK_LAYER",
+      "summary": "Buried surface hoar near 2200 m, triggered by large loads.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 2
+        },
+        {
+          "band": "MID",
+          "rating": 2
+        },
+        {
+          "band": "HIGH",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "region": "AT-07 Tyrol",
+      "validDate": "2026-03-13",
+      "issuedAt": "2026-03-13T07:00:00Z",
+      "mainProblem": "WIND_SLAB",
+      "summary": "Fresh wind slabs on north and east facing slopes above the treeline.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 1
+        },
+        {
+          "band": "MID",
+          "rating": 2
+        },
+        {
+          "band": "HIGH",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "region": "CH-GR Graubuenden",
+      "validDate": "2026-03-13",
+      "issuedAt": "2026-03-13T07:00:00Z",
+      "mainProblem": "PERSISTENT_WEAK_LAYER",
+      "summary": "Buried surface hoar near 2200 m, triggered by large loads.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 1
+        },
+        {
+          "band": "MID",
+          "rating": 1
+        },
+        {
+          "band": "HIGH",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "region": "AT-07 Tyrol",
+      "validDate": "2026-03-12",
+      "issuedAt": "2026-03-12T07:00:00Z",
+      "mainProblem": "WIND_SLAB",
+      "summary": "Fresh wind slabs on north and east facing slopes above the treeline.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 1
+        },
+        {
+          "band": "MID",
+          "rating": 2
+        },
+        {
+          "band": "HIGH",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "region": "CH-GR Graubuenden",
+      "validDate": "2026-03-12",
+      "issuedAt": "2026-03-12T07:00:00Z",
+      "mainProblem": "PERSISTENT_WEAK_LAYER",
+      "summary": "Buried surface hoar near 2200 m, triggered by large loads.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 1
+        },
+        {
+          "band": "MID",
+          "rating": 1
+        },
+        {
+          "band": "HIGH",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "region": "AT-07 Tyrol",
+      "validDate": "2026-03-11",
+      "issuedAt": "2026-03-11T07:00:00Z",
+      "mainProblem": "WIND_SLAB",
+      "summary": "Fresh wind slabs on north and east facing slopes above the treeline.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 1
+        },
+        {
+          "band": "MID",
+          "rating": 2
+        },
+        {
+          "band": "HIGH",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "region": "CH-GR Graubuenden",
+      "validDate": "2026-03-11",
+      "issuedAt": "2026-03-11T07:00:00Z",
+      "mainProblem": "PERSISTENT_WEAK_LAYER",
+      "summary": "Buried surface hoar near 2200 m, triggered by large loads.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 1
+        },
+        {
+          "band": "MID",
+          "rating": 1
+        },
+        {
+          "band": "HIGH",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "region": "AT-07 Tyrol",
+      "validDate": "2026-03-10",
+      "issuedAt": "2026-03-10T07:00:00Z",
+      "mainProblem": "WIND_SLAB",
+      "summary": "Fresh wind slabs on north and east facing slopes above the treeline.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 1
+        },
+        {
+          "band": "MID",
+          "rating": 2
+        },
+        {
+          "band": "HIGH",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "region": "CH-GR Graubuenden",
+      "validDate": "2026-03-10",
+      "issuedAt": "2026-03-10T07:00:00Z",
+      "mainProblem": "PERSISTENT_WEAK_LAYER",
+      "summary": "Buried surface hoar near 2200 m, triggered by large loads.",
+      "dangerRatings": [
+        {
+          "band": "LOW",
+          "rating": 1
+        },
+        {
+          "band": "MID",
+          "rating": 1
+        },
+        {
+          "band": "HIGH",
+          "rating": 2
+        }
+      ]
+    }
+  ]
+}

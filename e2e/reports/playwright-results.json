@@ -1,0 +1,116 @@
+{
+  "config": {
+    "configFile": "/scratch/work/alpineguard/playwright.config.ts",
+    "rootDir": "/scratch/work/alpineguard/e2e",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "e2e/reports/playwright-results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 15000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "/scratch/work/alpineguard/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {},
+        "id": "",
+        "name": "",
+        "testDir": "/scratch/work/alpineguard/e2e",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 180000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "version": "1.44.1",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "99-capture-screenshots.spec.ts",
+      "file": "99-capture-screenshots.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "screenshot capture",
+          "file": "99-capture-screenshots.spec.ts",
+          "line": 5,
+          "column": 6,
+          "specs": [
+            {
+              "title": "dashboard overview",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 43190,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-11-10T21:01:58.081Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "73a8407916ec847eadfc-d1a253e8b3eac8d16502",
+              "file": "99-capture-screenshots.spec.ts",
+              "line": 6,
+              "column": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-11-10T21:01:16.135Z",
+    "duration": 86742.213,
+    "expected": 1,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

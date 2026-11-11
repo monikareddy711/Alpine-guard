@@ -1,0 +1,461 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4606,
+          47.2094
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-101",
+        "name": "Patscherkofel",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 2220.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3775,
+          47.3056
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-102",
+        "name": "Seegrube Nordkette",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 1910.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03,
+          47.19
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-103",
+        "name": "Kuehtai",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 2300.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0264,
+          46.8706
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-104",
+        "name": "Obergurgl",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 1910.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9,
+          46.8667
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-105",
+        "name": "Vent",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 2500.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8833,
+          46.9167
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-106",
+        "name": "Pitztaler Gletscher",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 2800.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95,
+          46.9333
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-107",
+        "name": "Soelden Rettenbach",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 3000.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3167,
+          46.95
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-108",
+        "name": "Ischgl Idalpe",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 2650.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1833,
+          46.9667
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-109",
+        "name": "Galtuer",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 1590.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2667,
+          47.1333
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-110",
+        "name": "Sankt Anton am Arlberg",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 1340.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9853,
+          47.4211
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-111",
+        "name": "Zugspitze",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 2940.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5,
+          47.0
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-112",
+        "name": "Brenner",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 1510.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3842,
+          47.2637
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-113",
+        "name": "Innsbruck Universitaet",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 580.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1,
+          46.9833
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-114",
+        "name": "Stubai Eisjoch",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 3250.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2,
+          47.0
+        ]
+      },
+      "properties": {
+        "stationId": "AT07-115",
+        "name": "Neustift Milderaun",
+        "region": "AT-07 Tyrol",
+        "operator": "Land Tirol",
+        "network": "LINEA",
+        "elevationM": 2480.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8067,
+          46.8333
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-201",
+        "name": "Weissfluhjoch",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 2680.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8096,
+          46.8342
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-202",
+        "name": "Weissfluhgipfel",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 2530.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.85,
+          46.75
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-203",
+        "name": "Davos Dischma",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 2160.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95,
+          46.75
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-204",
+        "name": "Fluelapass",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 2420.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8833,
+          46.5333
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-205",
+        "name": "Samedan",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 1700.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7333,
+          46.4667
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-206",
+        "name": "Julierpass",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 2400.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6833,
+          46.7833
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-207",
+        "name": "Arosa",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 1740.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8,
+          46.86
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-208",
+        "name": "Parsenn Kreuzweg",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 2160.0,
+        "active": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7833,
+          46.7833
+        ]
+      },
+      "properties": {
+        "stationId": "CHGR-209",
+        "name": "Strelapass",
+        "region": "CH-GR Graubuenden",
+        "operator": "SLF",
+        "network": "IMIS",
+        "elevationM": 2280.0,
+        "active": true
+      }
+    }
+  ]
+}

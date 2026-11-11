@@ -1,0 +1,15 @@
+{
+  "rectangle": {
+    "west": 9.0,
+    "south": 46.0,
+    "east": 12.0,
+    "north": 47.5
+  },
+  "tilesX": 8,
+  "tilesY": 4,
+  "levels": 3,
+  "heightmapSamples": 65,
+  "imageryPixels": 512,
+  "imageryMaxLevel": 0,
+  "source": "Copernicus DEM GLO-30 (AWS Open Data, copernicus-dem-30m)"
+}

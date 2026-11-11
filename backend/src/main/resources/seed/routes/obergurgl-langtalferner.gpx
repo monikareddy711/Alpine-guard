@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="AlpineGuard" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Obergurgl Langtalferner</name>
+    <author><name>AlpineGuard</name></author>
+  </metadata>
+  <trk>
+    <name>Obergurgl Langtalferner</name>
+    <trkseg>
+      <trkpt lat="46.870312" lon="11.026400"><ele>1910.0</ele></trkpt>
+      <trkpt lat="46.869712" lon="11.027000"><ele>1917.2</ele></trkpt>
+      <trkpt lat="46.869712" lon="11.027600"><ele>1923.1</ele></trkpt>
+      <trkpt lat="46.869112" lon="11.028200"><ele>1933.3</ele></trkpt>
+      <trkpt lat="46.868512" lon="11.028800"><ele>1965.5</ele></trkpt>
+      <trkpt lat="46.867912" lon="11.028800"><ele>2003.0</ele></trkpt>
+      <trkpt lat="46.867312" lon="11.029400"><ele>2043.4</ele></trkpt>
+      <trkpt lat="46.866712" lon="11.029400"><ele>2082.6</ele></trkpt>
+      <trkpt lat="46.866112" lon="11.030000"><ele>2122.9</ele></trkpt>
+      <trkpt lat="46.865512" lon="11.030000"><ele>2158.9</ele></trkpt>
+      <trkpt lat="46.864912" lon="11.030600"><ele>2205.2</ele></trkpt>
+      <trkpt lat="46.864312" lon="11.030600"><ele>2228.7</ele></trkpt>
+      <trkpt lat="46.863712" lon="11.031200"><ele>2259.9</ele></trkpt>
+      <trkpt lat="46.863112" lon="11.031800"><ele>2292.4</ele></trkpt>
+      <trkpt lat="46.862512" lon="11.032400"><ele>2320.0</ele></trkpt>
+      <trkpt lat="46.861912" lon="11.033000"><ele>2348.6</ele></trkpt>
+      <trkpt lat="46.861312" lon="11.033600"><ele>2365.6</ele></trkpt>
+      <trkpt lat="46.860712" lon="11.034200"><ele>2389.8</ele></trkpt>
+      <trkpt lat="46.860112" lon="11.034800"><ele>2418.7</ele></trkpt>
+      <trkpt lat="46.859512" lon="11.034800"><ele>2436.4</ele></trkpt>
+      <trkpt lat="46.858912" lon="11.035400"><ele>2459.1</ele></trkpt>
+      <trkpt lat="46.858312" lon="11.036000"><ele>2480.8</ele></trkpt>
+      <trkpt lat="46.857712" lon="11.036600"><ele>2508.0</ele></trkpt>
+      <trkpt lat="46.857112" lon="11.037200"><ele>2527.7</ele></trkpt>
+      <trkpt lat="46.857112" lon="11.037800"><ele>2547.1</ele></trkpt>
+      <trkpt lat="46.856512" lon="11.038400"><ele>2551.8</ele></trkpt>
+      <trkpt lat="46.855912" lon="11.039000"><ele>2563.1</ele></trkpt>
+      <trkpt lat="46.855312" lon="11.039600"><ele>2583.7</ele></trkpt>
+      <trkpt lat="46.855312" lon="11.040200"><ele>2603.1</ele></trkpt>
+      <trkpt lat="46.854712" lon="11.040800"><ele>2609.2</ele></trkpt>
+      <trkpt lat="46.854112" lon="11.041400"><ele>2623.4</ele></trkpt>
+      <trkpt lat="46.853512" lon="11.042000"><ele>2638.7</ele></trkpt>
+      <trkpt lat="46.852912" lon="11.042600"><ele>2672.0</ele></trkpt>
+      <trkpt lat="46.852312" lon="11.043200"><ele>2682.7</ele></trkpt>
+      <trkpt lat="46.852312" lon="11.043800"><ele>2697.6</ele></trkpt>
+      <trkpt lat="46.852312" lon="11.044400"><ele>2711.2</ele></trkpt>
+      <trkpt lat="46.851712" lon="11.045000"><ele>2735.1</ele></trkpt>
+      <trkpt lat="46.851112" lon="11.045600"><ele>2742.0</ele></trkpt>
+      <trkpt lat="46.851112" lon="11.046200"><ele>2756.8</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

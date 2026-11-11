@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="AlpineGuard" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Kuehtai to Sulzkogel</name>
+    <author><name>AlpineGuard</name></author>
+  </metadata>
+  <trk>
+    <name>Kuehtai to Sulzkogel</name>
+    <trkseg>
+      <trkpt lat="47.190112" lon="11.030000"><ele>2298.1</ele></trkpt>
+      <trkpt lat="47.189512" lon="11.030000"><ele>2295.5</ele></trkpt>
+      <trkpt lat="47.188912" lon="11.030000"><ele>2294.5</ele></trkpt>
+      <trkpt lat="47.188312" lon="11.030000"><ele>2293.3</ele></trkpt>
+      <trkpt lat="47.187712" lon="11.030000"><ele>2296.0</ele></trkpt>
+      <trkpt lat="47.187112" lon="11.030000"><ele>2291.6</ele></trkpt>
+      <trkpt lat="47.186512" lon="11.030600"><ele>2306.7</ele></trkpt>
+      <trkpt lat="47.185912" lon="11.030000"><ele>2344.1</ele></trkpt>
+      <trkpt lat="47.185912" lon="11.030600"><ele>2375.5</ele></trkpt>
+      <trkpt lat="47.185312" lon="11.031200"><ele>2430.0</ele></trkpt>
+      <trkpt lat="47.184712" lon="11.031800"><ele>2459.1</ele></trkpt>
+      <trkpt lat="47.184112" lon="11.032400"><ele>2480.2</ele></trkpt>
+      <trkpt lat="47.183512" lon="11.033000"><ele>2489.8</ele></trkpt>
+      <trkpt lat="47.183512" lon="11.033600"><ele>2499.6</ele></trkpt>
+      <trkpt lat="47.183512" lon="11.034200"><ele>2518.8</ele></trkpt>
+      <trkpt lat="47.182912" lon="11.034800"><ele>2560.3</ele></trkpt>
+      <trkpt lat="47.182312" lon="11.035400"><ele>2594.6</ele></trkpt>
+      <trkpt lat="47.181712" lon="11.036000"><ele>2602.1</ele></trkpt>
+      <trkpt lat="47.181112" lon="11.036600"><ele>2640.1</ele></trkpt>
+      <trkpt lat="47.180512" lon="11.037200"><ele>2656.5</ele></trkpt>
+      <trkpt lat="47.179912" lon="11.037800"><ele>2685.8</ele></trkpt>
+      <trkpt lat="47.179912" lon="11.038400"><ele>2701.1</ele></trkpt>
+      <trkpt lat="47.179912" lon="11.039000"><ele>2748.3</ele></trkpt>
+      <trkpt lat="47.179912" lon="11.039600"><ele>2771.2</ele></trkpt>
+      <trkpt lat="47.179912" lon="11.040200"><ele>2810.5</ele></trkpt>
+      <trkpt lat="47.179912" lon="11.040800"><ele>2833.7</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

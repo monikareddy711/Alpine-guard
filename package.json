@@ -1,0 +1,14 @@
+{
+  "name": "alpineguard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AlpineGuard workspace scripts and end to end tests",
+  "scripts": {
+    "test:e2e": "playwright test",
+    "capture": "playwright test e2e/99-capture-screenshots.spec.ts",
+    "report": "node tools/build_test_report.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.44.1"
+  }
+}

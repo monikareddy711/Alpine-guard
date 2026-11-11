@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: ${ALPINEGUARD_DB_URL:jdbc:postgresql://postgres:5432/alpineguard}
+    username: ${ALPINEGUARD_DB_USER:alpineguard}
+    password: ${ALPINEGUARD_DB_PASSWORD:alpineguard}
+alpineguard:
+  spatial:
+    default-strategy: ${ALPINEGUARD_SPATIAL_STRATEGY:postgis}

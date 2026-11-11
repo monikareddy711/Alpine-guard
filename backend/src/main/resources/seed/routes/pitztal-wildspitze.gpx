@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="AlpineGuard" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Pitztal Glacier to Wildspitze</name>
+    <author><name>AlpineGuard</name></author>
+  </metadata>
+  <trk>
+    <name>Pitztal Glacier to Wildspitze</name>
+    <trkseg>
+      <trkpt lat="46.916712" lon="10.883232"><ele>2802.1</ele></trkpt>
+      <trkpt lat="46.916112" lon="10.883232"><ele>2829.6</ele></trkpt>
+      <trkpt lat="46.915512" lon="10.883832"><ele>2873.6</ele></trkpt>
+      <trkpt lat="46.914912" lon="10.883832"><ele>2887.5</ele></trkpt>
+      <trkpt lat="46.914312" lon="10.883832"><ele>2911.0</ele></trkpt>
+      <trkpt lat="46.913712" lon="10.883832"><ele>2921.0</ele></trkpt>
+      <trkpt lat="46.913112" lon="10.883832"><ele>2937.1</ele></trkpt>
+      <trkpt lat="46.912512" lon="10.883832"><ele>2945.8</ele></trkpt>
+      <trkpt lat="46.911912" lon="10.883832"><ele>2961.7</ele></trkpt>
+      <trkpt lat="46.911312" lon="10.883832"><ele>2970.4</ele></trkpt>
+      <trkpt lat="46.910712" lon="10.883832"><ele>2987.8</ele></trkpt>
+      <trkpt lat="46.910112" lon="10.883832"><ele>2998.2</ele></trkpt>
+      <trkpt lat="46.909512" lon="10.883832"><ele>3027.8</ele></trkpt>
+      <trkpt lat="46.908912" lon="10.883832"><ele>3043.8</ele></trkpt>
+      <trkpt lat="46.908312" lon="10.883232"><ele>3067.8</ele></trkpt>
+      <trkpt lat="46.907712" lon="10.883232"><ele>3090.7</ele></trkpt>
+      <trkpt lat="46.907112" lon="10.882632"><ele>3114.1</ele></trkpt>
+      <trkpt lat="46.906512" lon="10.882032"><ele>3129.0</ele></trkpt>
+      <trkpt lat="46.905912" lon="10.881432"><ele>3175.8</ele></trkpt>
+      <trkpt lat="46.905312" lon="10.880832"><ele>3206.7</ele></trkpt>
+      <trkpt lat="46.904712" lon="10.880832"><ele>3226.8</ele></trkpt>
+      <trkpt lat="46.904112" lon="10.880832"><ele>3231.9</ele></trkpt>
+      <trkpt lat="46.903512" lon="10.880832"><ele>3242.7</ele></trkpt>
+      <trkpt lat="46.902912" lon="10.880232"><ele>3262.6</ele></trkpt>
+      <trkpt lat="46.902312" lon="10.879632"><ele>3262.2</ele></trkpt>
+      <trkpt lat="46.901712" lon="10.879032"><ele>3272.7</ele></trkpt>
+      <trkpt lat="46.901112" lon="10.878432"><ele>3294.1</ele></trkpt>
+      <trkpt lat="46.900512" lon="10.877832"><ele>3293.2</ele></trkpt>
+      <trkpt lat="46.899912" lon="10.877232"><ele>3292.9</ele></trkpt>
+      <trkpt lat="46.899312" lon="10.877232"><ele>3296.3</ele></trkpt>
+      <trkpt lat="46.898712" lon="10.877232"><ele>3301.1</ele></trkpt>
+      <trkpt lat="46.898112" lon="10.877232"><ele>3306.1</ele></trkpt>
+      <trkpt lat="46.897512" lon="10.877232"><ele>3322.0</ele></trkpt>
+      <trkpt lat="46.896912" lon="10.877232"><ele>3332.8</ele></trkpt>
+      <trkpt lat="46.896312" lon="10.877232"><ele>3355.1</ele></trkpt>
+      <trkpt lat="46.895712" lon="10.877232"><ele>3359.9</ele></trkpt>
+      <trkpt lat="46.895112" lon="10.876632"><ele>3377.6</ele></trkpt>
+      <trkpt lat="46.894512" lon="10.876032"><ele>3391.0</ele></trkpt>
+      <trkpt lat="46.893912" lon="10.876032"><ele>3400.4</ele></trkpt>
+      <trkpt lat="46.893312" lon="10.876032"><ele>3411.0</ele></trkpt>
+      <trkpt lat="46.892712" lon="10.876032"><ele>3454.9</ele></trkpt>
+      <trkpt lat="46.892112" lon="10.876032"><ele>3478.1</ele></trkpt>
+      <trkpt lat="46.891512" lon="10.876032"><ele>3495.4</ele></trkpt>
+      <trkpt lat="46.890912" lon="10.875432"><ele>3513.0</ele></trkpt>
+      <trkpt lat="46.890312" lon="10.874832"><ele>3522.7</ele></trkpt>
+      <trkpt lat="46.890312" lon="10.874232"><ele>3529.8</ele></trkpt>
+      <trkpt lat="46.890312" lon="10.873632"><ele>3537.7</ele></trkpt>
+      <trkpt lat="46.890312" lon="10.873032"><ele>3552.7</ele></trkpt>
+      <trkpt lat="46.889712" lon="10.872432"><ele>3576.6</ele></trkpt>
+      <trkpt lat="46.889112" lon="10.871832"><ele>3610.0</ele></trkpt>
+      <trkpt lat="46.888512" lon="10.871232"><ele>3626.2</ele></trkpt>
+      <trkpt lat="46.887912" lon="10.870632"><ele>3628.1</ele></trkpt>
+      <trkpt lat="46.887912" lon="10.870032"><ele>3636.9</ele></trkpt>
+      <trkpt lat="46.887312" lon="10.869432"><ele>3652.0</ele></trkpt>
+      <trkpt lat="46.887312" lon="10.868832"><ele>3664.0</ele></trkpt>
+      <trkpt lat="46.887312" lon="10.868232"><ele>3694.8</ele></trkpt>
+      <trkpt lat="46.886712" lon="10.867632"><ele>3732.6</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

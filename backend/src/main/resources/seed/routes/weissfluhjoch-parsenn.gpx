@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="AlpineGuard" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Weissfluhjoch Parsenn descent</name>
+    <author><name>AlpineGuard</name></author>
+  </metadata>
+  <trk>
+    <name>Weissfluhjoch Parsenn descent</name>
+    <trkseg>
+      <trkpt lat="46.855112" lon="9.790000"><ele>2200.9</ele></trkpt>
+      <trkpt lat="46.854512" lon="9.790000"><ele>2224.5</ele></trkpt>
+      <trkpt lat="46.853912" lon="9.790600"><ele>2208.0</ele></trkpt>
+      <trkpt lat="46.853312" lon="9.791200"><ele>2179.4</ele></trkpt>
+      <trkpt lat="46.852712" lon="9.791800"><ele>2152.1</ele></trkpt>
+      <trkpt lat="46.852112" lon="9.792400"><ele>2151.1</ele></trkpt>
+      <trkpt lat="46.851512" lon="9.793000"><ele>2153.0</ele></trkpt>
+      <trkpt lat="46.850912" lon="9.793600"><ele>2165.5</ele></trkpt>
+      <trkpt lat="46.850312" lon="9.793600"><ele>2183.2</ele></trkpt>
+      <trkpt lat="46.849712" lon="9.793600"><ele>2190.5</ele></trkpt>
+      <trkpt lat="46.849112" lon="9.794200"><ele>2204.0</ele></trkpt>
+      <trkpt lat="46.848512" lon="9.794800"><ele>2219.7</ele></trkpt>
+      <trkpt lat="46.847912" lon="9.795400"><ele>2249.6</ele></trkpt>
+      <trkpt lat="46.847312" lon="9.796000"><ele>2264.2</ele></trkpt>
+      <trkpt lat="46.846712" lon="9.796600"><ele>2296.4</ele></trkpt>
+      <trkpt lat="46.846112" lon="9.797200"><ele>2313.4</ele></trkpt>
+      <trkpt lat="46.845512" lon="9.797800"><ele>2348.6</ele></trkpt>
+      <trkpt lat="46.844912" lon="9.798400"><ele>2363.7</ele></trkpt>
+      <trkpt lat="46.844312" lon="9.799000"><ele>2418.0</ele></trkpt>
+      <trkpt lat="46.843712" lon="9.799600"><ele>2452.9</ele></trkpt>
+      <trkpt lat="46.843712" lon="9.800200"><ele>2474.5</ele></trkpt>
+      <trkpt lat="46.843712" lon="9.800800"><ele>2495.2</ele></trkpt>
+      <trkpt lat="46.843712" lon="9.801400"><ele>2499.5</ele></trkpt>
+      <trkpt lat="46.843112" lon="9.802000"><ele>2523.1</ele></trkpt>
+      <trkpt lat="46.842512" lon="9.802600"><ele>2532.6</ele></trkpt>
+      <trkpt lat="46.841912" lon="9.803200"><ele>2547.2</ele></trkpt>
+      <trkpt lat="46.841312" lon="9.803200"><ele>2553.4</ele></trkpt>
+      <trkpt lat="46.840712" lon="9.803800"><ele>2554.3</ele></trkpt>
+      <trkpt lat="46.840112" lon="9.803800"><ele>2557.6</ele></trkpt>
+      <trkpt lat="46.839512" lon="9.803800"><ele>2562.3</ele></trkpt>
+      <trkpt lat="46.838912" lon="9.803800"><ele>2561.5</ele></trkpt>
+      <trkpt lat="46.838312" lon="9.803800"><ele>2554.2</ele></trkpt>
+      <trkpt lat="46.837712" lon="9.803800"><ele>2551.9</ele></trkpt>
+      <trkpt lat="46.837112" lon="9.803800"><ele>2556.8</ele></trkpt>
+      <trkpt lat="46.836512" lon="9.803800"><ele>2562.4</ele></trkpt>
+      <trkpt lat="46.835912" lon="9.804400"><ele>2580.7</ele></trkpt>
+      <trkpt lat="46.835312" lon="9.804400"><ele>2589.1</ele></trkpt>
+      <trkpt lat="46.834712" lon="9.805000"><ele>2602.5</ele></trkpt>
+      <trkpt lat="46.834112" lon="9.805600"><ele>2626.0</ele></trkpt>
+      <trkpt lat="46.833512" lon="9.806200"><ele>2677.9</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

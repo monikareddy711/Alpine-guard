@@ -1,0 +1,92 @@
+.shell {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  box-sizing: border-box;
+  padding: 0 10px 10px;
+  gap: 8px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 8px 4px;
+  height: 48px;
+  box-sizing: border-box;
+}
+
+.brand {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.mark {
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: #eaf1f8;
+}
+
+.subtitle {
+  color: var(--ag-muted);
+  font-size: 12px;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.bulletin {
+  color: var(--ag-muted);
+  font-size: 11px;
+  max-width: 320px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.grid {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr) minmax(0, 1fr);
+  grid-template-rows: minmax(0, 1.05fr) minmax(0, 1fr);
+  grid-template-areas:
+    'globe globe table'
+    'telemetry profile hazard';
+  gap: 8px;
+}
+
+.globe {
+  grid-area: globe;
+  min-height: 0;
+}
+
+.table {
+  grid-area: table;
+  min-height: 0;
+}
+
+.telemetry {
+  grid-area: telemetry;
+  min-height: 0;
+}
+
+.profile {
+  grid-area: profile;
+  min-height: 0;
+}
+
+.hazard {
+  grid-area: hazard;
+  min-height: 0;
+}
+
+:host ::ng-deep .route-select {
+  min-width: 240px;
+}

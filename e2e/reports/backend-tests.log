@@ -1,0 +1,147 @@
+Picked up JAVA_TOOL_OPTIONS: -XX:CompressedClassSpaceSize=64m -XX:ReservedCodeCacheSize=64m
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< io.alpineguard:alpineguard-backend >-----------------
+[INFO] Building AlpineGuard backend 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- jacoco:0.8.12:prepare-agent (prepare-agent) @ alpineguard-backend ---
+[INFO] argLine set to -javaagent:/home/sandbox/.m2/repository/org/jacoco/org.jacoco.agent/0.8.12/org.jacoco.agent-0.8.12-runtime.jar=destfile=/scratch/work/alpineguard/backend/target/jacoco.exec,excludes=io/alpineguard/api/dto/**:io/alpineguard/domain/**:io/alpineguard/config/**:io/alpineguard/AlpineGuardApplication.class
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ alpineguard-backend ---
+[INFO] Copying 2 resources from src/main/resources to target/classes
+[INFO] Copying 13 resources from src/main/resources to target/classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ alpineguard-backend ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ alpineguard-backend ---
+[INFO] Copying 5 resources from src/test/resources to target/test-classes
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ alpineguard-backend ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- surefire:3.1.2:test (default-test) @ alpineguard-backend ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+Picked up JAVA_TOOL_OPTIONS: -XX:CompressedClassSpaceSize=64m -XX:ReservedCodeCacheSize=64m
+[INFO] Running io.alpineguard.GoldenParityTest
+20:23:55.653 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [io.alpineguard.GoldenParityTest]: GoldenParityTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:23:56.878 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration io.alpineguard.AlpineGuardApplication for test class io.alpineguard.GoldenParityTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2026-11-10T20:24:01.870Z  INFO 3248 --- [alpineguard] [           main] io.alpineguard.GoldenParityTest          : Starting GoldenParityTest using Java 21.0.13 with PID 3248 (started by sandbox in /scratch/work/alpineguard/backend)
+2026-11-10T20:24:01.875Z  INFO 3248 --- [alpineguard] [           main] io.alpineguard.GoldenParityTest          : The following 1 profile is active: "test"
+2026-11-10T20:24:19.274Z  INFO 3248 --- [alpineguard] [           main] com.zaxxer.hikari.HikariDataSource       : alpineguard-pool - Starting...
+2026-11-10T20:24:21.368Z  INFO 3248 --- [alpineguard] [           main] com.zaxxer.hikari.pool.HikariPool        : alpineguard-pool - Added connection conn0: url=jdbc:h2:mem:alpineguard user=SA
+2026-11-10T20:24:21.377Z  INFO 3248 --- [alpineguard] [           main] com.zaxxer.hikari.HikariDataSource       : alpineguard-pool - Start completed.
+2026-11-10T20:24:22.173Z  INFO 3248 --- [alpineguard] [           main] o.f.c.internal.license.VersionPrinter    : Flyway Community Edition 9.22.3 by Redgate
+2026-11-10T20:24:22.174Z  INFO 3248 --- [alpineguard] [           main] o.f.c.internal.license.VersionPrinter    : See release notes here: https://rd.gt/416ObMi
+2026-11-10T20:24:22.174Z  INFO 3248 --- [alpineguard] [           main] o.f.c.internal.license.VersionPrinter    : 
+2026-11-10T20:24:22.658Z  INFO 3248 --- [alpineguard] [           main] org.flywaydb.core.FlywayExecutor         : Database: jdbc:h2:mem:alpineguard (H2 2.2)
+2026-11-10T20:24:22.692Z  WARN 3248 --- [alpineguard] [           main] o.f.c.internal.database.base.Database    : Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2026-11-10T20:24:22.962Z  INFO 3248 --- [alpineguard] [           main] o.f.c.i.s.JdbcTableSchemaHistory         : Schema history table "public"."flyway_schema_history" does not exist yet
+2026-11-10T20:24:22.971Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbValidate     : Successfully validated 4 migrations (execution time 00:00.116s)
+2026-11-10T20:24:23.052Z  INFO 3248 --- [alpineguard] [           main] o.f.c.i.s.JdbcTableSchemaHistory         : Creating Schema History table "public"."flyway_schema_history" ...
+2026-11-10T20:24:23.265Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbMigrate      : Current version of schema "public": << Empty Schema >>
+2026-11-10T20:24:23.285Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbMigrate      : Migrating schema "public" to version "1 - h2gis init"
+2026-11-10T20:24:28.271Z  INFO 3248 --- [alpineguard] [           main] o.f.c.i.s.DefaultSqlScriptExecutor       : +------------------------+
+| public.h2gis_spatial() |
++------------------------+
+|                        |
++------------------------+
+
+2026-11-10T20:24:28.386Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbMigrate      : Migrating schema "public" to version "2 - schema"
+2026-11-10T20:24:28.557Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbMigrate      : Migrating schema "public" to version "3 - spatial"
+2026-11-10T20:24:28.659Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbMigrate      : Migrating schema "public" to version "4 - indexes"
+2026-11-10T20:24:28.676Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbMigrate      : Successfully applied 4 migrations to schema "public", now at version v4 (execution time 00:05.116s)
+2026-11-10T20:24:36.952Z  INFO 3248 --- [alpineguard] [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 3 endpoint(s) beneath base path '/actuator'
+2026-11-10T20:24:37.378Z  INFO 3248 --- [alpineguard] [           main] io.alpineguard.GoldenParityTest          : Started GoldenParityTest in 38.901 seconds (process running for 49.816)
+2026-11-10T20:24:45.067Z  INFO 3248 --- [alpineguard] [           main] io.alpineguard.ingest.IngestService      : ingested 24 stations, 17304 readings, 42 bulletins, 5 routes
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.73 s -- in io.alpineguard.GoldenParityTest
+[INFO] Running io.alpineguard.hazard.WindLoadingEvaluatorTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.099 s -- in io.alpineguard.hazard.WindLoadingEvaluatorTest
+[INFO] Running io.alpineguard.hazard.HazardRuleTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.205 s -- in io.alpineguard.hazard.HazardRuleTest
+[INFO] Running io.alpineguard.ApiIntegrationTest
+2026-11-10T20:24:57.157Z  INFO 3248 --- [alpineguard] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [io.alpineguard.ApiIntegrationTest]: ApiIntegrationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-11-10T20:24:57.264Z  INFO 3248 --- [alpineguard] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration io.alpineguard.AlpineGuardApplication for test class io.alpineguard.ApiIntegrationTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2026-11-10T20:24:57.784Z  INFO 3248 --- [alpineguard] [           main] io.alpineguard.ApiIntegrationTest        : Starting ApiIntegrationTest using Java 21.0.13 with PID 3248 (started by sandbox in /scratch/work/alpineguard/backend)
+2026-11-10T20:24:57.784Z  INFO 3248 --- [alpineguard] [           main] io.alpineguard.ApiIntegrationTest        : The following 1 profile is active: "test"
+2026-11-10T20:25:00.653Z  INFO 3248 --- [alpineguard] [           main] com.zaxxer.hikari.HikariDataSource       : alpineguard-pool - Starting...
+2026-11-10T20:25:00.657Z  INFO 3248 --- [alpineguard] [           main] com.zaxxer.hikari.pool.HikariPool        : alpineguard-pool - Added connection conn61: url=jdbc:h2:mem:alpineguard user=SA
+2026-11-10T20:25:00.657Z  INFO 3248 --- [alpineguard] [           main] com.zaxxer.hikari.HikariDataSource       : alpineguard-pool - Start completed.
+2026-11-10T20:25:00.676Z  INFO 3248 --- [alpineguard] [           main] org.flywaydb.core.FlywayExecutor         : Database: jdbc:h2:mem:alpineguard (H2 2.2)
+2026-11-10T20:25:00.679Z  WARN 3248 --- [alpineguard] [           main] o.f.c.internal.database.base.Database    : Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2026-11-10T20:25:00.691Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbValidate     : Successfully validated 4 migrations (execution time 00:00.010s)
+2026-11-10T20:25:00.755Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbMigrate      : Current version of schema "public": 4
+2026-11-10T20:25:00.756Z  INFO 3248 --- [alpineguard] [           main] o.f.core.internal.command.DbMigrate      : Schema "public" is up to date. No migration necessary.
+2026-11-10T20:25:02.376Z  INFO 3248 --- [alpineguard] [           main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-11-10T20:25:02.377Z  INFO 3248 --- [alpineguard] [           main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-11-10T20:25:02.384Z  INFO 3248 --- [alpineguard] [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 3 endpoint(s) beneath base path '/actuator'
+2026-11-10T20:25:02.459Z  INFO 3248 --- [alpineguard] [           main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 82 ms
+2026-11-10T20:25:02.552Z  INFO 3248 --- [alpineguard] [           main] io.alpineguard.ApiIntegrationTest        : Started ApiIntegrationTest in 5.2 seconds (process running for 74.991)
+2026-11-10T20:25:02.555Z  INFO 3248 --- [alpineguard] [           main] io.alpineguard.ingest.SeedDataLoader     : station table already populated, skipping seed
+2026-11-10T20:25:08.889Z  INFO 3248 --- [alpineguard] [           main] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 3315 ms
+[INFO] Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.66 s -- in io.alpineguard.ApiIntegrationTest
+[INFO] Running io.alpineguard.SpatialStrategyParityTest
+2026-11-10T20:25:09.773Z  INFO 3248 --- [alpineguard] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [io.alpineguard.SpatialStrategyParityTest]: SpatialStrategyParityTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-11-10T20:25:09.849Z  INFO 3248 --- [alpineguard] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration io.alpineguard.AlpineGuardApplication for test class io.alpineguard.SpatialStrategyParityTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.431 s -- in io.alpineguard.SpatialStrategyParityTest
+[INFO] Running io.alpineguard.benchmark.SpatialBenchmarkTest
+2026-11-10T20:25:10.254Z  INFO 3248 --- [alpineguard] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [io.alpineguard.benchmark.SpatialBenchmarkTest]: SpatialBenchmarkTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-11-10T20:25:10.460Z  INFO 3248 --- [alpineguard] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration io.alpineguard.AlpineGuardApplication for test class io.alpineguard.benchmark.SpatialBenchmarkTest
+2026-11-10T20:25:10.578Z  INFO 3248 --- [alpineguard] [           main] i.a.benchmark.SpatialBenchmarkService    : benchmark fixture holds 40 stations
+2026-11-10T20:25:12.994Z  INFO 3248 --- [alpineguard] [           main] i.a.benchmark.SpatialBenchmarkService    : benchmark fixture holds 60 stations
+2026-11-10T20:25:15.172Z  INFO 3248 --- [alpineguard] [           main] i.a.benchmark.SpatialBenchmarkService    : benchmark fixture holds 30 stations
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.031 s -- in io.alpineguard.benchmark.SpatialBenchmarkTest
+[INFO] Running io.alpineguard.RouteHazardEngineTest
+2026-11-10T20:25:16.360Z  INFO 3248 --- [alpineguard] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [io.alpineguard.RouteHazardEngineTest]: RouteHazardEngineTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-11-10T20:25:16.375Z  INFO 3248 --- [alpineguard] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration io.alpineguard.AlpineGuardApplication for test class io.alpineguard.RouteHazardEngineTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.983 s -- in io.alpineguard.RouteHazardEngineTest
+[INFO] Running io.alpineguard.spatial.KdTreeTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.077 s -- in io.alpineguard.spatial.KdTreeTest
+[INFO] Running io.alpineguard.ingest.ParserTest
+[Fatal Error] :1:11: XML document structures must start and end within the same entity.
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.219 s -- in io.alpineguard.ingest.ParserTest
+[INFO] Running io.alpineguard.ApiPerformanceTest
+2026-11-10T20:25:17.653Z  INFO 3248 --- [alpineguard] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [io.alpineguard.ApiPerformanceTest]: ApiPerformanceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-11-10T20:25:17.670Z  INFO 3248 --- [alpineguard] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration io.alpineguard.AlpineGuardApplication for test class io.alpineguard.ApiPerformanceTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.282 s -- in io.alpineguard.ApiPerformanceTest
+[INFO] Running io.alpineguard.GeoMathTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.087 s -- in io.alpineguard.GeoMathTest
+[INFO] Running io.alpineguard.IngestServiceTest
+2026-11-10T20:25:18.049Z  INFO 3248 --- [alpineguard] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [io.alpineguard.IngestServiceTest]: IngestServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-11-10T20:25:18.066Z  INFO 3248 --- [alpineguard] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration io.alpineguard.AlpineGuardApplication for test class io.alpineguard.IngestServiceTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.291 s -- in io.alpineguard.IngestServiceTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 69, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  01:43 min
+[INFO] Finished at: 2026-11-10T20:25:19Z
+[INFO] ------------------------------------------------------------------------

@@ -1,0 +1,55 @@
+:root {
+  --ag-bg: #10151c;
+  --ag-panel: #161d26;
+  --ag-border: #26313d;
+  --ag-text: #d7dee7;
+  --ag-muted: #8b98a8;
+  --ag-accent: #4aa3df;
+  --ag-low: #4caf7d;
+  --ag-moderate: #d8c34a;
+  --ag-considerable: #e08b3c;
+  --ag-high: #d9534f;
+  --ag-extreme: #8e44ad;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--ag-bg);
+  color: var(--ag-text);
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  font-size: 13px;
+}
+
+.ag-panel {
+  background: var(--ag-panel);
+  border: 1px solid var(--ag-border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.ag-panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 12px;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ag-muted);
+  border-bottom: 1px solid var(--ag-border);
+}
+
+.ag-severity-low { color: var(--ag-low); }
+.ag-severity-moderate { color: var(--ag-moderate); }
+.ag-severity-considerable { color: var(--ag-considerable); }
+.ag-severity-high { color: var(--ag-high); }
+.ag-severity-extreme { color: var(--ag-extreme); }
+
+.cesium-viewer-bottom,
+.cesium-widget-credits {
+  display: none !important;
+}
